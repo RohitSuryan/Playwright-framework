@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop",
+      "price": 999.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 102,
+      "name": "Mouse",
+      "price": 29.99,
+      "category": "Accessories"
+    }
+  ],
+  "testCredentials": {
+    "validUser": {
+      "username": "testuser",
+      "password": "Test@1234"
+    },
+    "invalidUser": {
+      "username": "wronguser",
+      "password": "wrongpass"
+    }
+  }
+}
