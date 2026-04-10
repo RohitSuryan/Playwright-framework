@@ -1,0 +1,33 @@
+{
+  "environment": "qa",
+  "browser": "chromium",
+  "environments": {
+    "dev": {
+      "baseURL": "https://www.dev-snowsoftware.io/",
+      "apiBaseURL": "https://westeurope.dev-snowsoftware.io/api",
+      "credentials": {
+        "username": "RSuryan@flexera.com",
+        "domain": "snowlab",
+        "password": "Rohit@123"
+      }
+    },
+    "qa": {
+      "baseURL": "https://www.qa-snowsoftware.io/",
+      "apiBaseURL": "https://westeurope.qa-snowsoftware.io/api",
+      "credentials": {
+        "username": "RSuryan@flexera.com",
+        "domain": "snowlab",
+        "password": "Rohit@123"
+      }
+    },
+    "prod": {
+      "baseURL": "https://www.snowsoftware.io/",
+      "apiBaseURL": "https://westeurope.snowsoftware.io/api",
+      "credentials": {
+        "username": "RSuryan@flexera.com",
+        "domain": "sme",
+        "password": "Rohit@123"
+      }
+    }
+  }
+}

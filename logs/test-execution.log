@@ -1,0 +1,361 @@
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:13:26"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:13:26"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:13:26"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:13:26"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:14:01"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:14:01"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:14:01"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:14:01"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:14:08"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:14:08"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:14:09"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:14:09"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:14:15"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:14:15"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:14:16"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:15:49"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:15:49"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:15:49"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:15:49"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:15:56"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:15:56"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:15:56"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:15:57"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:15:57"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:15:59"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:15:59"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:15:59"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:16:04"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:16:04"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:16:14"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:16:14"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:16:20"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:16:20"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:16:20"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:16:20"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:16:20"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:16:21"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:16:21"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:16:21"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:18:34"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:18:34"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:18:34"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:18:34"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:18:44"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:18:44"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:18:44"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:18:45"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:18:45"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:18:45"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:18:46"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:18:46"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:18:46"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:18:46"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:18:47"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:18:47"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:18:47"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:18:47"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:18:47"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:19:01"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:19:01"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:19:07"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:19:07"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:19:07"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:19:08"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:19:08"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:19:08"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:19:08"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:19:09"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:19:22"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:19:22"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:19:30"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:19:30"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:19:30"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:19:31"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:19:31"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:19:32"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:19:32"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:22:51"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:22:51"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:22:51"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:22:51"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:22:59"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:22:59"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:22:59"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:23:01"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:23:01"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:23:02"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:23:02"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:23:04"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:23:04"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:23:04"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:23:04"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:23:04"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-02-05 23:23:05"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:23:06"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:23:06"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:23:06"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:24:52"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:24:52"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:24:52"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:24:52"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:25:00"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:25:00"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:25:00"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:25:01"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:25:01"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:25:01"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:25:01"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:25:02"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:25:02"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:25:02"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:25:02"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:25:02"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:25:02"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:25:03"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:25:03"}
+{"context":"HomePage","level":"info","message":"Clicking element: locator('p:has-text(\"SAM Core\")')","timestamp":"2026-02-05 23:25:04"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-02-05 23:25:06"}
+{"context":"HomePage","level":"info","message":"Clicking element: locator('p:has-text(\"SAM Core\")')","timestamp":"2026-02-05 23:25:06"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:26:34"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:26:34"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:26:34"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:26:34"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:26:40"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:26:40"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:26:40"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:26:41"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:26:41"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:26:42"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:26:42"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-02-05 23:26:45"}
+{"context":"HomePage","level":"info","message":"Clicking element: locator('p:has-text(\"SAM Core\")').first()","timestamp":"2026-02-05 23:26:45"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:26:49"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:26:49"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:26:49"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:26:50"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:26:50"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:26:50"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:26:50"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:26:50"}
+{"context":"HomePage","level":"info","message":"Clicking element: locator('p:has-text(\"SAM Core\")').first()","timestamp":"2026-02-05 23:26:53"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:29:09"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:29:09"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:29:09"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:29:09"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:29:17"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:29:17"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:29:17"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:29:17"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:29:17"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:29:18"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:29:18"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:29:19"}
+{"context":"HomePage","level":"info","message":"Clicking element: locator('p').filter({ hasText: 'SAM Core' }).first()","timestamp":"2026-02-05 23:29:21"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:29:27"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:29:27"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:29:27"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:29:29"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:29:29"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:29:29"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:29:29"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-02-05 23:29:32"}
+{"context":"HomePage","level":"info","message":"Clicking element: locator('p').filter({ hasText: 'SAM Core' }).first()","timestamp":"2026-02-05 23:29:32"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:30:31"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:30:31"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:30:31"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:30:31"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:30:38"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:30:38"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:30:38"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:30:39"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:30:39"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:30:40"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:30:40"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-02-05 23:30:43"}
+{"context":"HomePage","level":"info","message":"Navigating to: /samcore","timestamp":"2026-02-05 23:30:43"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:30:51"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:30:51"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:30:51"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:30:52"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:30:52"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:30:52"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:30:52"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:30:52"}
+{"context":"HomePage","level":"info","message":"Navigating to: /samcore","timestamp":"2026-02-05 23:30:55"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:31:43"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:31:43"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:31:43"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:31:43"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:31:51"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:31:51"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:31:51"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:31:52"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:31:52"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:31:53"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:31:53"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:31:53"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:31:53"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:31:53"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:31:53"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:31:53"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:31:54"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:31:54"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:31:55"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-02-05 23:31:56"}
+{"context":"HomePage","level":"info","message":"Navigating to: /samcore","timestamp":"2026-02-05 23:31:56"}
+{"context":"HomePage","level":"info","message":"Navigating to: /samcore","timestamp":"2026-02-05 23:31:57"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:32:31"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:32:31"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-02-05 23:32:31"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-02-05 23:32:31"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:32:38"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:32:38"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:32:38"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:32:40"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:32:40"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:32:40"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:32:40"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-05 23:32:41"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-05 23:32:41"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:32:42"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-05 23:32:42"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-05 23:32:42"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-05 23:32:43"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-05 23:32:43"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-02-05 23:32:43"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-02-05 23:32:43"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-05 23:32:43"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-02-05 23:32:46"}
+{"context":"Test","level":"info","message":"No valid auth state found, creating new one...","timestamp":"2026-02-25 10:46:50"}
+{"context":"Test","level":"info","message":"Setting up authentication state...","timestamp":"2026-02-25 10:46:50"}
+{"context":"Test","level":"info","message":"No valid auth state found, creating new one...","timestamp":"2026-02-25 10:47:33"}
+{"context":"Test","level":"info","message":"Setting up authentication state...","timestamp":"2026-02-25 10:47:33"}
+{"context":"Test","level":"info","message":"No valid auth state found, creating new one...","timestamp":"2026-02-25 10:48:58"}
+{"context":"Test","level":"info","message":"Setting up authentication state...","timestamp":"2026-02-25 10:48:58"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-02-25 10:49:06"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-25 10:49:06"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-25 10:49:09"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-02-25 10:49:11"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-02-25 10:49:11"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-02-25 10:49:12"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-25 10:49:12"}
+{"context":"Test","level":"error","message":"Failed to setup authentication: TimeoutError: page.waitForLoadState: Timeout 30000ms exceeded.\n=========================== logs ===========================\n  \"commit\" event fired\n  \"domcontentloaded\" event fired\n  \"load\" event fired\n============================================================","timestamp":"2026-02-25 10:49:42"}
+{"context":"Test","level":"info","message":"No valid auth state found, creating new one...","timestamp":"2026-02-25 10:51:03"}
+{"context":"Test","level":"info","message":"Setting up authentication state...","timestamp":"2026-02-25 10:51:03"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-02-25 10:51:08"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-02-25 10:51:12"}
+{"context":"Test","level":"info","message":"Current URL after login: https://www.qa-snowsoftware.io/","timestamp":"2026-02-25 10:51:17"}
+{"context":"Test","level":"info","message":"Authentication state saved to: /Users/rohitsuryan/Downloads/Playwright/js/Nova_Automation/.auth/auth-state.json","timestamp":"2026-02-25 10:51:18"}
+{"context":"Test","level":"info","message":"✅ Authentication setup completed successfully!","timestamp":"2026-02-25 10:51:18"}
+{"context":"Test","level":"info","message":"✅ Using existing authentication state","timestamp":"2026-02-25 10:55:45"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-02-25 10:55:52"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-02-25 10:55:56"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-02-25 10:55:57"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-02-25 10:55:57"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-04-02 15:32:16"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-04-02 15:32:16"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-04-02 15:32:16"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-04-02 15:32:16"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-04-02 15:32:25"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-04-02 15:32:25"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:32:25"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-04-02 15:32:26"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-04-02 15:32:26"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:32:26"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-04-02 15:32:26"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:32:26"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-04-02 15:32:27"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-04-02 15:32:27"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-04-02 15:32:27"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-04-02 15:32:27"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:32:27"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-04-02 15:32:28"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-04-02 15:32:28"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-04-02 15:32:30"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-04-02 15:32:31"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-04-02 15:32:31"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-04-02 15:34:11"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-04-02 15:34:11"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-04-02 15:34:11"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-04-02 15:34:11"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-04-02 15:34:20"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-04-02 15:34:20"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:34:20"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-04-02 15:34:21"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:34:21"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-04-02 15:34:21"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-04-02 15:34:21"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-04-02 15:34:21"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-04-02 15:34:21"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-04-02 15:34:21"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:34:21"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-04-02 15:34:22"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:34:22"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-04-02 15:34:23"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-04-02 15:34:23"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-04-02 15:34:24"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-04-02 15:34:26"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-04-02 15:34:26"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-04-02 15:38:29"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-04-02 15:38:29"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-04-02 15:38:29"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-04-02 15:38:29"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-04-02 15:38:32"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-04-02 15:38:32"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-04-02 15:38:33"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-04-02 15:38:33"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:38:35"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-04-02 15:38:36"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:38:36"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:38:36"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-04-02 15:38:37"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-04-02 15:38:37"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-04-02 15:38:38"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:38:38"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-04-02 15:38:38"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-04-02 15:38:38"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-04-02 15:39:55"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-04-02 15:39:55"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-04-02 15:39:55"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-04-02 15:39:55"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-04-02 15:39:55"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-04-02 15:39:55"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-04-02 15:39:55"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-04-02 15:39:55"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:40:01"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:40:01"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-04-02 15:40:02"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:40:02"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-04-02 15:40:03"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-04-02 15:40:03"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-04-02 15:40:03"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 15:40:03"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-04-02 15:40:04"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-04-02 15:40:04"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-04-02 15:40:05"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-04-02 15:40:06"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-04-02 15:40:06"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-04-02 15:40:07"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-04-02 16:31:44"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-04-02 16:31:44"}
+{"context":"LoginPage","level":"info","message":"Navigating to login page","timestamp":"2026-04-02 16:31:44"}
+{"context":"LoginPage","level":"info","message":"Navigating to: /","timestamp":"2026-04-02 16:31:44"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-04-02 16:31:45"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-04-02 16:31:45"}
+{"context":"LoginPage","level":"info","message":"Logging in with email: RSuryan@flexera.com and domain: snowlab","timestamp":"2026-04-02 16:31:45"}
+{"context":"LoginPage","level":"info","message":"Filling text: RSuryan@flexera.com","timestamp":"2026-04-02 16:31:45"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 16:31:50"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 16:31:52"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-04-02 16:31:52"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 16:31:52"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-04-02 16:31:53"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-04-02 16:31:53"}
+{"context":"LoginPage","level":"info","message":"Filling text: snowlab","timestamp":"2026-04-02 16:31:53"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Continue\"), button:has-text(\"Next\")')","timestamp":"2026-04-02 16:31:53"}
+{"context":"HomePage","level":"info","message":"Verifying home page is displayed","timestamp":"2026-04-02 16:31:53"}
+{"context":"LoginPage","level":"info","message":"Filling text: Rohit@123","timestamp":"2026-04-02 16:31:54"}
+{"context":"LoginPage","level":"info","message":"Clicking element: locator('button[type=\"submit\"], button:has-text(\"Sign in\")')","timestamp":"2026-04-02 16:31:54"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-04-02 16:31:56"}
+{"context":"HomePage","level":"info","message":"Retrieved text: Hello Rohit Suryan, Welcome to Snow Atlas ","timestamp":"2026-04-02 16:31:58"}
+{"context":"HomePage","level":"info","message":"Navigating to: /sam-core","timestamp":"2026-04-02 16:31:58"}
